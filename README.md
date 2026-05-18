@@ -18,6 +18,11 @@ LearnPlaywrightBatch2X/
 │   ├── 06_Identifier_Part1.js          # Identifier naming rules
 │   ├── 07_Identifier_Part2.js          # Naming conventions (camelCase, snake_case, PascalCase, etc.)
 │   ├── 08_Comments.js
+│   ├── 09_var_let_const.js             # var, let, and const declarations
+│   ├── 10_functions.js                 # JavaScript functions
+│   ├── 11_var_explained.js             # var keyword deep dive
+│   ├── 12_let_people_love.js           # let keyword explained
+│   ├── 13_const.js                     # const keyword explained
 │   ├── VS_Code_keywboard_shortcut_mac.md    # VS Code shortcuts for Mac
 │   └── VS_Code_keywboard_shortcut_windows.mS # VS Code shortcuts for Windows
 └── .gitignore
@@ -37,6 +42,8 @@ Core JavaScript concepts including variables, data types, and fundamental progra
 - **Identifier Rules**: Understanding valid naming rules for variables and functions
 - **Naming Conventions**: camelCase, snake_case, PascalCase, SCREAMING_SNAKE_CASE, and more
 - **Comments**: How to write single-line and multi-line comments
+- **Variables**: var, let, and const declarations and differences
+- **Functions**: JavaScript function declarations and usage
 - **VS Code Shortcuts**: Quick reference keyboard shortcuts for both Mac and Windows
 
 ---
@@ -77,7 +84,7 @@ Core JavaScript concepts including variables, data types, and fundamental progra
 |---------|--------|
 | 01 | JavaScript Basics, Commands, Hot Code |
 | 02 | Core JavaScript Concepts |
-| 03 | Identifiers, Literals, Comments, VS Code Shortcuts |
+| 03 | Identifiers, Literals, Comments, Variables (var/let/const), Functions, VS Code Shortcuts |
 | Future | Playwright Installation, Browser Automation, Testing Framework |
 
 ---
