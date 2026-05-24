@@ -1,0 +1,10 @@
+let statuscode = 200;
+if (statuscode == 200) {
+    console.log("API is working  ");
+}
+else if (statuscode == 404) {
+    console.log("Not Found");
+}
+else {
+    console.log("no status code match found");
+}

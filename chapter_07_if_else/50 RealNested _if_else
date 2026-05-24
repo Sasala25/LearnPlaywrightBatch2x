@@ -1,0 +1,18 @@
+let isLoggedIn = true;
+let userRole = "admin";
+
+if (isLoggedIn) {
+    if (userRole === "admin") {
+        console.log("Welcome, admin!");
+    } else if (userRole === "editor") {
+        console.log("Welcome, editor!");
+    }
+    else if (userRole === "viewer") {
+        console.log("Welcome, viewer!");
+    }
+    else {
+        console.log("Welcome, user!");
+    }
+} else {
+    console.log("Please log in.");
+}
