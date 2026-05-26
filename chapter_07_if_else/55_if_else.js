@@ -1,3 +1,3 @@
 if (true) {
-    console.log("sinle if is allowed");
+    console.log("single if is allowed");
 }

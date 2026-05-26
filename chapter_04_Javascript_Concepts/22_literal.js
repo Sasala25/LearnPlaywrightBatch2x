@@ -11,4 +11,4 @@ console.log(typeof nullValue); // Output: "object"
 console.log(typeof undefinedValue); // Output: "undefined"
 console.log(typeof isStudent); // Output: "boolean"
 console.log(typeof pi); // Output: "number"
-console.log(typeof banaana);
+console.log(typeof banaana); // Output: "object"
